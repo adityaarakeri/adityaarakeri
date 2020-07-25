@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Aditya Arakeri
 
+Engineer who likes to code and learn
+
+##### You can also find me on
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityaarakeri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aditya005/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@aditya005) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adityaarakeri.com)  
+
+
+##### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=adityaarakeri&show_icons=true)
 <!--
 **adityaarakeri/adityaarakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
