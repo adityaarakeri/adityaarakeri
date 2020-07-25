@@ -3,7 +3,7 @@
 Engineer who likes to code and learn
 
 ##### You can also find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityaarakeri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aditya005/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@aditya005) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adityaarakeri.com)  
+[<img src='https://img.icons8.com/ios-glyphs/72/linkedin-2.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityaarakeri/)  [<img src='https://img.icons8.com/material-rounded/72/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/aditya005/) [<img src='https://img.icons8.com/ios-glyphs/72/twitter.png' alt='twitter' height='40'>](https://twitter.com/@aditya005) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adityaarakeri.com)  
 
 
 ##### My GitHub stats
