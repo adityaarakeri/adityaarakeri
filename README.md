@@ -6,7 +6,7 @@ Engineer who likes to code and learn
 [<img src='https://img.icons8.com/ios-glyphs/72/linkedin-2.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityaarakeri/)  [<img src='https://img.icons8.com/material-rounded/72/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/aditya005/) [<img src='https://img.icons8.com/ios-glyphs/72/twitter.png' alt='twitter' height='40'>](https://twitter.com/@aditya005) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adityaarakeri.com)  
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=adityaarakeri&show_icons=true&hide=["stars","issues"]&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
+![Github stats](https://github-readme-stats.vercel.app/api?username=adityaarakeri&show_icons=true&hide=["stars","issues"]&title_color=ffffff&icon_color=00BFFF&text_color=87CEFA&bg_color=191919)
 <!--
 **adityaarakeri/adityaarakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
